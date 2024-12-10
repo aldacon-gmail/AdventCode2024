@@ -21,7 +21,6 @@ string = file.read()
 
 
 # PROBLEM 1:
-# multiples = re.findall(r'mul\((\d{1,3}),(\d{1,3})\)', string)
 #total = 0
 #for multipliers in multiples:
 #	total += int(multipliers[0]) * int(multipliers[1])
